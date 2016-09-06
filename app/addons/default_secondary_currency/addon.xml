@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<addon scheme="2.0" edition_type="ROOT,ULT">
+    <id>default_secondary_currency</id>
+    <version>1.0</version>
+    <default_language>en</default_language>
+    <name>Secondary currency by default</name>
+    <description>Set the Secondary Currency to Be Selected by Default in the Storefront</description>
+    <status>active</status>
+    <auto_install>ULTIMATE</auto_install>
+</addon>
