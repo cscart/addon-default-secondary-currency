@@ -7,4 +7,19 @@
     <description>Set the Secondary Currency to Be Selected by Default in the Storefront</description>
     <status>active</status>
     <auto_install>ULTIMATE</auto_install>
+
+    <settings>
+        <sections>
+            <section id="section">
+                <items>
+                    <item id="storefront_code">
+                        <type>input</type>
+                        <name>Desired storefront currency code</name>
+                        <default_value>USD</default_value>
+                        <variants/>
+                    </item>
+                </items>
+            </section>
+        </sections>
+    </settings>
 </addon>
